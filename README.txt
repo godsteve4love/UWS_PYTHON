@@ -13,4 +13,5 @@ Click on Code button
 >>> click Codespaces
 >>> On current banch, click shiny space engine
 >>> click on the 3 dots beside Active (...) 
->>> Open on browser of VS Code for editing. 
+>>> Open In Browser (Web Editing) or Open in VS Code (Desktop editing). 
+>>> File name; GroupAssessment.md
