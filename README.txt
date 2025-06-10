@@ -1,4 +1,5 @@
-Install These extensions:
+Install These extensions on VS Code:
+
 # GitHub CodeSpaces
 # GitHub Copilot
 # learn-markdown
