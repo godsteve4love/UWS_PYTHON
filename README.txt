@@ -1,9 +1,9 @@
-Install These extensions on VS Code:
+Install These extensions on VS Code on Desktop:
 
 # GitHub CodeSpaces
-# GitHub Copilot
+# GitHub Copilot -  Not Compulsory
 # learn-markdown
-# Markdown Preview Enchanced
+# Markdown Preview Enhanced
 # live-share -for live collaboration
 
 
